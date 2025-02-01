@@ -1,6 +1,9 @@
 # Blog-Card
 This project is a Blog Card that showcases different types of rare mushrooms with an interactive and visually appealing design. The blog card features three slides, each containing an image, title, description, and a "Read more" button.
 
+![image](https://github.com/user-attachments/assets/404c285a-6bb5-4a75-b152-02c58e494734)
+
+
 # Features
 ## Interactive Slideshow: Users can switch between different mushrooms using radio buttons that act as sliders.
  * Image Toggle: Clicking on the image reveals more details about the selected mushroom.   
